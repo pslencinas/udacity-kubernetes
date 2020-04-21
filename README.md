@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/pslencinas/udacity-kubernetes)]
+[CircleCI](https://circleci.com/gh/pslencinas/udacity-kubernetes)
 
 ## Project Overview
 
