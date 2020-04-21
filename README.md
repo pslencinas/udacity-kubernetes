@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/Mirch/ml-microservice-kubernetes.svg?style=svg)](https://circleci.com/gh/Mirch/ml-microservice-kubernetes)
+[![CircleCI](https://circleci.com/gh/pslencinas/udacity-kubernetes.svg?style=svg)](https://circleci.com/gh/pslencinas/udacity-kubernetes)
 
 ## Project Overview
 
